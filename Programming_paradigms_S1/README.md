@@ -12,4 +12,4 @@ ___
 *Задача №2*  
 Написать точно такую же процедуру, но в декларативном стиле
 
-<image src="./images/task_2.jpg" alt="task_2">
+<image src=".[image](https://github.com/Ask1509/Programming_paradigms/blob/main/Programming_paradigms_S1/images/task_2.jpg)
