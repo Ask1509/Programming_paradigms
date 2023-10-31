@@ -6,10 +6,10 @@
 Дан список целых чисел numbers. Необходимо написать в императивном стиле процедуру для
 сортировки числа в списке в порядке убывания. Можно использовать любой алгоритм сортировки.
 
-<image src="./images/task_1.jpg" alt="task_1">
+![image](https://github.com/Ask1509/Programming_paradigms/blob/main/Programming_paradigms_S1/images/task_1.jpg)
   
 ___
 *Задача №2*  
 Написать точно такую же процедуру, но в декларативном стиле
 
-<image src=".[image](https://github.com/Ask1509/Programming_paradigms/blob/main/Programming_paradigms_S1/images/task_2.jpg)
+![image](https://github.com/Ask1509/Programming_paradigms/blob/main/Programming_paradigms_S1/images/task_2.jpg)
