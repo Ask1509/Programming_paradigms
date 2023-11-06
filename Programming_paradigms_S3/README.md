@@ -5,7 +5,7 @@
 *Задача №1*  
 "Крестики-нолики"
 
-<image src="./images/game_field.jpg" alt="game field">
+<image src="./images/game_field.jpg> 
 
 ● Контекст
 
