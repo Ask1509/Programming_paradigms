@@ -5,7 +5,7 @@
 *Задача №1*  
 "Крестики-нолики"
 
-<image src="./images/game_field.jpg> 
+![image](https://github.com/Ask1509/Programming_paradigms/blob/e67c63b3868bb440a833fbf822b7a5d5c02830ea/Programming_paradigms_S3/images/game_field.jpg)
 
 ● Контекст
 
