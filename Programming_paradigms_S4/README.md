@@ -17,4 +17,4 @@
 
 ● Формула корреляции Пирсона:
 
-![image] (https://github.com/Ask1509/Programming_paradigms/blob/97b973f962bf3f9e6959284569fb091085238cb1/Programming_paradigms_S4/image/pirson.jpg)
+![image](https://github.com/Ask1509/Programming_paradigms/blob/97b973f962bf3f9e6959284569fb091085238cb1/Programming_paradigms_S4/image/pirson.jpg)
