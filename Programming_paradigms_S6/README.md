@@ -22,4 +22,4 @@
 число. На выходе - индекс элемента или -1, в случае если искомого
 элемента нет в массиве.
 
-! [image](https://github.com/Ask1509/Programming_paradigms/blob/ff3eb95013f1d4564ce374604343c507e217a13a/Programming_paradigms_S6/images/binary.jpg) 
+![image](https://github.com/Ask1509/Programming_paradigms/blob/ff3eb95013f1d4564ce374604343c507e217a13a/Programming_paradigms_S6/images/binary.jpg) 
